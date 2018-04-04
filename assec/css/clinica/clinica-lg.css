@@ -1,0 +1,121 @@
+@media (min-width: 1200px) {
+
+    /*id*/
+    #footer {
+        padding-bottom: 1%;
+        padding-top: 3%;
+    }
+
+    #sessionOne h1 {
+        float: left;
+    }
+
+    #sessionOne h2 {
+        margin-top: 7%;
+    }
+
+    #owl-promotions {
+        padding-top: 6%;
+
+    }
+
+    #owl-promotions img {
+        height: 200px;
+        max-height: 200px;
+        max-width: 200px;
+        width: 200px;
+    }
+
+    #owl-promotions .owl-wrapper-outer {
+        min-height: 314px;
+        max-height: 314px;
+
+    }
+
+    #sessionOne {
+        padding-bottom: 3%;
+    }
+
+    #sessionTwo p {
+        margin-bottom: 9%;
+    }
+
+    #sessionThree {
+        padding-bottom: 1%;
+    }
+
+    #sessionThree li {
+        line-height: 1.5em;
+    }
+
+    #sessionThree ul {
+        padding-left: 0;
+    }
+
+    #sessionThree .row {
+        margin-bottom: 1%;
+        padding: 0% 0% 0% 5%;
+    }
+
+    #sessionFour button {
+        margin-top: 2%;
+        width: 200px;
+    }
+
+
+    #sessionFour .container {
+        padding-bottom: 3%;
+    }
+
+    #navbar .row {
+        margin-right: 0;
+    }
+
+    /*end id*/
+    /*class*/
+    .borderWhite {
+        margin: 4%;
+    }
+
+    .circleFacebook {
+        padding: 5% 7%;
+    }
+
+    .circleTwitter {
+        padding: 5% 6%;
+    }
+
+    .circleYoutube {
+        padding: 4% 6%;
+    }
+
+    .logo {
+        padding-right: 0;
+    }
+
+    .logo img {
+        margin: 0 auto;
+        max-height: 52px;
+        width: 100%;
+    }
+
+    .nav-bar-blue {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .navbar {
+        margin-bottom: 2px;
+    }
+
+    .noneStyleLi {
+        margin-top: 22%;
+    }
+
+    .publicity {
+        margin: 15% 1%;
+    }
+
+    /*end class*/
+
+}

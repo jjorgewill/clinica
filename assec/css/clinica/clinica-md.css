@@ -1,0 +1,206 @@
+@media (min-width: 992px) and (max-width: 1199px) {
+
+    h1.colorWhite {
+        margin-bottom: -3%;
+    }
+
+    h2.colorWhite {
+        margin-bottom: 0%;
+    }
+
+    #owl-promotions {
+        padding-top: 2%;
+    }
+
+    #owl-promotions h1, #owl-promotions h2 {
+        text-align: center;
+    }
+
+    #owl-promotions img {
+        height: 200px;
+        height: 200px;
+        max-height: 200px;
+        max-width: 200px;
+        width: 200px;
+    }
+
+    #owl-promotions .owl-wrapper-outer {
+        min-height: 348px;
+        max-height: 348px;
+
+    }
+
+    #sessionOne {
+        padding-bottom: 2%;
+    }
+
+    #sessionTwo .row {
+        margin-right: 0;
+        margin-left: 0;
+    }
+
+    #sessionThree .container {
+        min-height: 395px;
+    }
+
+    #sessionFour {
+        padding-bottom: 1%;
+    }
+
+    #sessionFour button {
+        margin-top: 2%;
+        width: 200px;
+    }
+
+    #footer {
+        padding-top: 2%;
+    }
+
+    #navbar div.row {
+        margin-right: 0;
+    }
+
+    #navbar img {
+        max-height: 53px;
+    }
+
+    #navbar .nav-bar-blue {
+        padding-right: 0;
+    }
+
+    .circleFacebook {
+        padding: 6% 9%;
+    }
+
+    .circleTwitter {
+        padding: 6% 7%;
+    }
+
+    .circleYoutube {
+        padding: 5% 7%;
+    }
+
+    .contnedor {
+        padding: 4px 20px 0 20px !important;
+    }
+
+    .navbar {
+        margin-bottom: 0;
+    }
+
+    .noneStyleLi {
+        margin: 30% 34% auto;
+        width: 30%;
+    }
+
+    .publicity {
+        display: none;
+    }
+
+}
+
+@media (min-width: 769px) and (max-width: 991px) {
+
+    #formConsultOnline {
+        border: 1px solid #ccc;
+        padding-top: 3%;
+        padding-bottom: 3%;
+    }
+
+    #footer {
+        padding-top: 3%;
+        padding-bottom: 1%;
+    }
+    #owl-promotions {
+        padding-top: 2%;
+
+    }
+
+    #owl-promotions h1, #owl-promotions h2 {
+        text-align: center;
+    }
+
+    #owl-promotions img {
+        height: 200px;
+        height: 200px;
+        max-height: 200px;
+        max-width: 200px;
+        width: 200px;
+    }
+
+    #owl-promotions .owl-wrapper-outer {
+        min-height: 328px max-height : 328 px
+
+    }
+
+    #sessionOne {
+        padding-bottom: 2%;
+    }
+
+    #sessionTwo .row {
+        margin-right: 0;
+        margin-left: 0;
+    }
+
+    #sessionTwo p {
+        padding: 1% 5%;
+    }
+
+    #sessionThree .container {
+        min-height: 395px;
+    }
+
+    #sessionFour button {
+        margin-bottom: 2%;
+        margin-top: 2%;
+        width: 200px;
+    }
+    #sessionFour p {
+        text-align: center;
+    }
+
+    #navbar .row {
+        margin-right: 0;
+        margin-left: 0;
+    }
+
+    .navbar {
+        margin-bottom: 0;
+    }
+
+    #navbar img {
+        height: 53px;
+        max-height: 53px;
+    }
+
+    #navbar .nav-bar-blue {
+        padding-right: 0;
+    }
+
+    .circleFacebook {
+        padding: 6% 9%;
+    }
+
+    .circleTwitter {
+        padding: 6% 7%;
+    }
+
+    .circleYoutube {
+        padding: 5% 7%;
+    }
+
+    .newletterSmall {
+        width: 73%;
+        margin: 0 auto;
+    }
+
+    .noneStyleLi {
+        margin: 0 28% auto;
+        width: 40%;
+    }
+
+    .publicity {
+        display: none;
+    }
+
+}
